@@ -57,7 +57,8 @@
       },
       "T": {
         "type": "item",
-        "code": "primitivesurvival:cordage"
+        "code": "primitivesurvival:cordage",
+        "quantity": 2
       }
     },
     "width": 2,
@@ -79,7 +80,8 @@
       },
       "T": {
         "type": "item",
-        "code": "primitivesurvival:cordage"
+        "code": "primitivesurvival:cordage",
+        "quantity": 2
       }
     },
     "width": 2,
@@ -99,7 +101,7 @@
         "code": "primitivesurvival:trussedmeat-*-raw",
         "allowedVariants": [ "redmeat", "poultry", "fish", "bushmeat" ],
         "name": "meat",
-        "quantity": 4
+        "quantity": 2
       }
     },
     "width": 1,

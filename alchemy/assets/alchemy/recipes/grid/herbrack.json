@@ -8,7 +8,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-bismuth", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-bismuth", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -50,7 +50,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-bismuthbronze", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-bismuthbronze", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -92,7 +92,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-blackbronze", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-blackbronze", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -134,7 +134,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-brass", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-brass", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -176,7 +176,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-chromium", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-chromium", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -218,7 +218,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-copper", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-copper", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -260,7 +260,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-gold", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-gold", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -302,7 +302,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-iron", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-iron", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -344,7 +344,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-meteoriciron", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-meteoriciron", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -386,7 +386,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-lead", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-lead", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -428,7 +428,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-molybdochalkos", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-molybdochalkos", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -470,7 +470,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-platinum", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-platinum", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -512,7 +512,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-chromium", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-chromium", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -554,7 +554,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-platinum", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-platinum", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -596,7 +596,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-silver", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-silver", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -638,7 +638,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-stainlesssteel", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-stainlesssteel", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -680,7 +680,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-steel", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-steel", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -722,7 +722,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-tin", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-tin", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -764,7 +764,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-tinbronze", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-tinbronze", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -806,7 +806,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-titanium", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-titanium", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -848,7 +848,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-uranium", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-uranium", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",
@@ -890,7 +890,7 @@
         "name": "wood",
         "allowedVariants": ["birch", "oak", "maple", "pine", "acacia", "kapok", "aged", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart"]
       },
-      "H": { "type": "item", "code": "alchemy:herbrackhook-zinc", "quantity": 2 },
+      "H": { "type": "item", "code": "alchemy:herbrackhook-zinc", "quantity": 4 },
       "R": {
         "type": "item",
         "code": "alchemy:herbracktop-*",

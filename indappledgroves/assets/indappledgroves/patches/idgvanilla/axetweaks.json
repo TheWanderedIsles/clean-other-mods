@@ -108,13 +108,7 @@
     "file": "game:itemtypes/tool/axe-metal.json",
     "side": "server"
   },
-  {
-    "op": "replace",
-    "path": "/ingredient/allowedVariants",
-    "value": ["copper"],
-    "file": "game:recipes/smithing/axe.json",
-    "side": "server"
-  },
+  
   {
     "op": "add",
     "path": "/enabled",
@@ -150,11 +144,5 @@
     "file": "game:itemtypes/tool/axe-metal.json",
     "side": "server"
   },
-  {
-    "op": "replace",
-    "path": "/ingredient/allowedVariants",
-    "value": ["copper"],
-    "file": "game:recipes/smithing/axe.json",
-    "server": "server"
-  }
+  
 ]

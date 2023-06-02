@@ -1,8 +1,8 @@
 {
   "ingredientPattern": "F,R,T",
   "ingredients": {
-    "F": { "type": "item", "code": "game:fat" },
-    "R": { "type": "item", "code": "game:drygrass" },
+    "F": { "type": "item", "code": "game:fat","quantity": 16 },
+    "R": { "type": "item", "code": "game:drygrass","quantity": 16 },
     "T": { "type": "item", "code": "alchemy:mortarpestle-*", "isTool": true }
   },
   "shapeless": true,

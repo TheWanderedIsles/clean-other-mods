@@ -130,7 +130,7 @@
 			scale: 1.25,
 		},
 	variantgroups: [
-    { code: "material", states: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ]},
+    { code: "material", states: ["copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ]},
    ],
 	drawtype: "json",
     shapeByType: {

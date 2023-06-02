@@ -12,7 +12,7 @@
 	{
 		ingredientPattern: "KS",
 		ingredients: {
-			"K": { type: "item", code: "game:knife-*", isTool: true },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true },
 			"S": { type: "block", code: "medieval:craneo-north" }
 		},
 		width: 2,
@@ -22,7 +22,7 @@
 	{
 		ingredientPattern: "KS",
 		ingredients: {
-			"K": { type: "item", code: "medieval:knife-*", isTool: true },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true },
 			"S": { type: "block", code: "medieval:craneo-east" }
 		},
 		width: 2,

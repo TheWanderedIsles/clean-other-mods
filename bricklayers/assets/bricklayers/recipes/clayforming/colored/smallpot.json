@@ -1,5 +1,5 @@
 {
-	"ingredient": { "type": "item", "code": "game:clay-*", "name": "color", "allowedVariants": [ "lavender", "paleblue", "palegreen", "palered", "peach", "sunflower", "white" ] },
+	"ingredient": { "type": "item", "code": "game:clay-*", "name": "color", "allowedVariants": [ "lavender", "paleblue", "palegreen", "palered", "sunflower", "white" ] },
 	"pattern": [[
 		"_____",
 		"_____",

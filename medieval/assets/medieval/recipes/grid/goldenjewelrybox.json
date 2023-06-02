@@ -4,7 +4,7 @@
 		ingredientPattern: "P,H,P",
 		ingredients: {
 			"H": { type: "item", code: "game:hammer-*", isTool: true },
-			"P": { type: "item", code: "game:metalplate-gold" }
+			"P": { type: "item", code: "game:metalplate-gold", quantity:3 }
 		},
 		width: 1,
 		height: 3,

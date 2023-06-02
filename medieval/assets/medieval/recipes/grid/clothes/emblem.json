@@ -33,7 +33,7 @@
 		ingredients: {
 			"L": { type: "block", code: "medieval:colorlinen-leatherplain-down", quantity: 1 },
 			"T": { type: "item", code: "medieval:stripsofleather" },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -44,7 +44,7 @@
 		ingredients: {
 			"L": { type: "block", code: "medieval:colorlinen-leatherplain-down", quantity: 1 },
 			"T": { type: "item", code: "medieval:stripsofleather" },
-			"S": { type: "item", code: "game:shears-*", isTool: true }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -117,7 +117,7 @@
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-small", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "game:knife-*", isTool: true  }
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -129,7 +129,7 @@
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-small", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
+			"K": { type: "item", code: "game:knife-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -141,7 +141,7 @@
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-medium", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "game:knife-*", isTool: true  }
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -153,7 +153,19 @@
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-medium", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
+			"K": { type: "item", code: "game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
+	},
+	{
+		ingredientPattern: "HKH,C__",
+		recipeGroup: 3,
+		ingredients: {
+			"H": { type: "item", code: "game:hide-pelt-large", quantity: 1 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -172,15 +184,15 @@
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
-		ingredientPattern: "HKH,C__",
-		recipeGroup: 3,
+		ingredientPattern: "KHC",
+		recipeGroup: 4,
 		ingredients: {
-			"H": { type: "item", code: "game:hide-pelt-large", quantity: 1 },
+			"H": { type: "item", code: "game:hide-pelt-huge", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
 		},
 		width: 3,
-		height: 2,
+		height: 1,
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
@@ -196,15 +208,15 @@
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
-		ingredientPattern: "KHC",
-		recipeGroup: 4,
+		ingredientPattern: "HKH,HCH,HHH",
+		recipeGroup: 1,
 		ingredients: {
-			"H": { type: "item", code: "game:hide-pelt-huge", quantity: 1 },
+			"H": { type: "item", code: "game:hide-pelt-small", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
-		height: 1,
+		height: 3,
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
@@ -220,15 +232,15 @@
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
-		ingredientPattern: "HKH,HCH,HHH",
-		recipeGroup: 1,
+		ingredientPattern: "HKH,HCH",
+		recipeGroup: 2,
 		ingredients: {
-			"H": { type: "item", code: "game:hide-pelt-small", quantity: 1 },
+			"H": { type: "item", code: "game:hide-pelt-medium", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
-		height: 3,
+		height: 2,
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
@@ -244,12 +256,12 @@
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
-		ingredientPattern: "HKH,HCH",
-		recipeGroup: 2,
+		ingredientPattern: "HKH,C__",
+		recipeGroup: 3,
 		ingredients: {
-			"H": { type: "item", code: "game:hide-pelt-medium", quantity: 1 },
+			"H": { type: "item", code: "game:hide-pelt-large", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -268,24 +280,12 @@
 		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
 	},
 	{
-		ingredientPattern: "HKH,C__",
-		recipeGroup: 3,
-		ingredients: {
-			"H": { type: "item", code: "game:hide-pelt-large", quantity: 1 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "shears-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-emblem-brown-fur-coat"  }
-	},
-	{
 		ingredientPattern: "KHC",
 		recipeGroup: 4,
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-huge", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 1,
@@ -297,7 +297,7 @@
 		ingredients: {
 			"H": { type: "item", code: "game:hide-pelt-huge", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 1,

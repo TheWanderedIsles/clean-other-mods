@@ -1,4 +1,5 @@
 {
+  requiresTrait: "Smith",
   "ingredient": {
     "type": "item",
     "code": "game:ingot-*",

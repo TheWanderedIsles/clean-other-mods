@@ -4,10 +4,10 @@
 		ingredientPattern: "S,G",
 		ingredients: {
     		"S": { type: "item", code: "game:saw-*", isTool: true },
-			"G": { type: "item", code: "game:ore-olivine", quantity: 1 }
+			"G": {type: "Block", code: "game:glass-green", quantity: 8 }
 		},
 		width: 1,
 		height: 2,
-		output: { type: "block", code: "medieval:bottleb-medieval", quantity: 1  }
+		output: { type: "block", code: "medieval:bottleb-medieval", quantity: 8  }
 	}
 ]

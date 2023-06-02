@@ -1,7 +1,7 @@
 {
 	code: "coin",
 	variantgroups: [
-		{ code: "value", states: ["gold", "silver", "stainlesssteel" ] },
+		{ code: "value", states: ["gold", "silver" ] },
 	],
 	maxstacksizeByType: {
 		"coin-gold": 1000,
@@ -54,24 +54,6 @@
 	shape: { base: "item/coin-{value}" },
 	creativeinventory: { "general": ["*"], "items": ["*"], "medieval": ["*"] },
 	combustiblePropsByType: {
-		"*-gold": {
-			meltingPoint: 1063,
-			meltingDuration: 30,
-			smeltedRatio: 10,
-			smeltedStack: { type: "item", code: "game:ingot-gold", }
-		},
-		"*-silver": {
-			meltingPoint: 961,
-			meltingDuration: 30,
-			smeltedRatio: 10,
-			smeltedStack: { type: "item", code: "game:ingot-silver" }
-		},
-		"*-stainlesssteel": {
-			meltingPoint: 1510,
-			meltingDuration: 30,
-			smeltedRatio: 10,
-			smeltedStack: { type: "item", code: "game:ingot-stainlesssteel" }
-		}
 	},
 	materialDensity: 4000,
 	glowLevelByType: {

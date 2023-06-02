@@ -12,7 +12,7 @@
         "H": {
           "type": "item",
           "code": "wildcraft:herbs-*",
-          "quantity": 2,
+          "quantity": 16,
           "name": "herb"
         }
       },
@@ -22,7 +22,7 @@
       "output": {
         "type": "item",
         "code": "wildcraft:herbseeds-{herb}",
-        "quantity": 1
+        "quantity": 20
       }
     },
     {
@@ -38,7 +38,7 @@
         "H": {
           "type": "item",
           "code": "wildcraft:waterherbs-*",
-          "quantity": 2,
+          "quantity": 16,
           "name": "herb"
         }
       },
@@ -48,7 +48,7 @@
       "output": {
         "type": "item",
         "code": "wildcraft:waterherbseeds-{herb}",
-        "quantity": 1
+        "quantity": 20
       }
     },
     {
@@ -64,7 +64,7 @@
         "H": {
           "type": "item",
           "code": "wildcraft:skunkcabbage-stem",
-          "quantity": 1,
+          "quantity": 16,
           "name": "herb"
         }
       },
@@ -74,7 +74,7 @@
       "output": {
         "type": "item",
         "code": "wildcraft:waterherbseeds-skunkcabbage",
-        "quantity": 2
+        "quantity": 20
       }
     },
     {
@@ -90,7 +90,7 @@
         "H": {
           "type": "item",
           "code": "wildcraft:plantfibers-*",
-          "quantity": 2,
+          "quantity": 16,
           "name": "herb"
         }
       },
@@ -100,7 +100,7 @@
       "output": {
         "type": "item",
         "code": "wildcraft:waterherbseeds-{herb}",
-        "quantity": 1
-      }
+        "quantity": 20 
+		}
     }
   ]

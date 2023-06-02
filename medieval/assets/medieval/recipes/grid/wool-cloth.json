@@ -11,17 +11,6 @@
 		output: { type: "item", code: "game:cloth-{color}", stackSize: 8 }
 	},
     {
-		ingredientPattern: "A_,FS",
-		ingredients: {
-			"A": { type: "item", code: "shears-*", isTool: true  },
-			"S": { type: "item", code: "game:stick", quantity: 8 },
-			"F": { type: "block", code: "wool-*", name: "color", allowedVariants: ["plain", "mordant", "black", "blue", "brown", "gray", "green", "orange", "pink", "purple", "red", "white", "yellow"] }
-		},
-		width: 2,
-		height: 2,
-		output: { type: "item", code: "game:cloth-{color}", stackSize: 8 }
-	},
-    {
 		ingredientPattern: "FS",
 		ingredients: {
 			"S": { type: "item", code: "game:stick", quantity: 1 },

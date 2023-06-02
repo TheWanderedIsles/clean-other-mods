@@ -1,6 +1,7 @@
 [
 	{
 	"code": "fruit-vinegar",
+	requiresTrait: "Homesteader",
 	"sealHours": 432,
 	"ingredients": [
 		{ "type": "item", "code": "game:waterportion", "litres": 0.5 },

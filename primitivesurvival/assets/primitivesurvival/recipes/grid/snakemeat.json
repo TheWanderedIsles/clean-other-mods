@@ -17,7 +17,7 @@
     "output": {
       "type": "item",
       "code": "primitivesurvival:snakemeat-raw",
-      "quantity": 6
+      "quantity": 3
     }
   },
   {
@@ -38,7 +38,7 @@
     "output": {
       "type": "item",
       "code": "primitivesurvival:snakemeat-raw",
-      "quantity": 8
+      "quantity": 4
     }
   },
   {
@@ -59,7 +59,7 @@
     "output": {
       "type": "item",
       "code": "primitivesurvival:snakemeat-raw",
-      "quantity": 4
+      "quantity": 2
     }
   },
   {
@@ -80,7 +80,7 @@
     "output": {
       "type": "item",
       "code": "primitivesurvival:snakemeat-raw",
-      "quantity": 3
+      "quantity": 2
     }
   }
 ]

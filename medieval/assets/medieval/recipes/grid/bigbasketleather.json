@@ -1,9 +1,10 @@
 [
 
 	{
-		ingredientPattern: "LLL,L_L,LLL",
+		ingredientPattern: "LLL,LXL,LLL",
 		ingredients: {
-    		"L": { type: "item", code: "medieval:stripsofleather", quantity: 4 }
+    		"L": { type: "item", code: "medieval:stripsofleather", quantity: 4 },
+			"X": { type: "block", code: "game:stationarybasket-east", attributes: { type: "reed" } }
 		},
 		width: 3,
 		height: 3,

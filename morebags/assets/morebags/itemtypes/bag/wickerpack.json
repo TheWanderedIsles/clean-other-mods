@@ -36,7 +36,7 @@
 		wearableAttachment: true,
 		attachShape: { base: "item/bag/wickerpack-attached" },
 		backpack: {
-			quantitySlots: 4
+			quantitySlots: 8
 		}
 	}
 }

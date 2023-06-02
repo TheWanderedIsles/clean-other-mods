@@ -1,7 +1,0 @@
-[
-  {
-    "op": "remove",
-    "path": "/shapeless",
-    "file": "game:recipes/grid/doublechest.json"
-  }
-]

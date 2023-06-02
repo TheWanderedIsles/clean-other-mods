@@ -4,7 +4,7 @@
 	"ingredientPattern": "_B_,MBM,BBB",
 	"ingredients": {
 		"M": { "type": "item", "code": "game:mortar", "name": "mortar", "quantity": 1 },
-		"B": { "type": "item", "code": "game:burnedbrick-*", "name": "brick", "quantity": 1 }
+		"B": { "type": "item", "code": "game:burnedbrick-*", "name": "brick", "quantity": 2 }
 	},
 	"width": 3,
 	"height": 3,
