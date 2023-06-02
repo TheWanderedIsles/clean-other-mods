@@ -1,14 +1,13 @@
 ﻿[
   {
     "name": "Wood sailboat",
-    "ingredientPattern": "RSN,PSQ,LLL",
+    "ingredientPattern": "RSN,RSQ,LLL",
     "ingredients": {
       "L": { "type": "item", "code": "game:plank-*", "name": "wood", "quantity": 24},
-      "R": { "type": "item", "code": "game:rope", "quantity": 8},
+      "R": { "type": "item", "code": "game:rope", "quantity": 4},
       "S": { "type": "item", "code": "game:sail", "quantity": 4},
-      "N": { "type": "item", "code": "hammersringingfall:metalband-*", "quantity": 12 },
-	  "Q": { "type": "item", "code": "hammersringingfall:rivet-*", "quantity": 24 },
-	  "P": { "type": "item", "code": "ancienttools:pitch-stick", "quantity": 16 }
+      "N": { "type": "Item", "code": "hammersringingfall:metalband-*", "quantity": 12 },
+	  "Q": { "type": "Item", "code": "hammersringingfall:rivet-*", "quantity": 24 }
     },
     "width": 3,
     "height": 3,
