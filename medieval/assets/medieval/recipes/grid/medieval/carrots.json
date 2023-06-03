@@ -6,6 +6,6 @@
 		},
 		width: 3,
 		height: 2,
-		output: { type: "block", code: "carrots-carrots", quantity: 1 }
+		output: { type: "block", code: "medieval:carrots-carrots", quantity: 1 }
 	}
 ]

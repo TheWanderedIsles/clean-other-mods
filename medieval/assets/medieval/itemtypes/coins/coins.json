@@ -5,8 +5,7 @@
 	],
 	maxstacksizeByType: {
 		"coin-gold": 1000,
-		"coin-silver": 1000,
-		"coin-stainlesssteel": 1000
+		"coin-silver": 1000
 	},
 	dimensions: { width: 0.0625, height: 0.0625, length: 0.0625 },
 	attributesByType: {
@@ -24,22 +23,6 @@
 			}
 		},
 		"coin-silver": {
-			currency: {
-				value: 1
-			},
-			displaycaseable: true, 
-			shelvable: true,
-			onDisplayTransform: {
-				translation: { x: 0.1, y: 0, z: 0 },
-				rotation: { x: 0, y: 0, z: 2 },
-				origin: { x: 0.5, y: 0, z: 0.5 },
-				scale: 0.85
-			}
-		},
-		"coin-stainlesssteel": {
-			currency: {
-				value: 1
-			},
 			displaycaseable: true, 
 			shelvable: true,
 			onDisplayTransform: {
@@ -53,13 +36,11 @@
 	storageFlags: 4,
 	shape: { base: "item/coin-{value}" },
 	creativeinventory: { "general": ["*"], "items": ["*"], "medieval": ["*"] },
-	combustiblePropsByType: {
 	},
 	materialDensity: 4000,
 	glowLevelByType: {
 		"coin-gold": 255,
-		"coin-silver": 255,
-		"coin-stainlesssteel": 255
+		"coin-silver": 255
 	},
 	vertexFlags: {
 		glowLevel: 255,

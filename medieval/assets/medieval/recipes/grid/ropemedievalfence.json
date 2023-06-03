@@ -7,6 +7,6 @@
 		},
 		width: 3,
 		height: 1,
-		output: { type: "block", code: "ropemedievalfence-ew-free", quantity: 4  }
+		output: { type: "block", code: "medieval:ropemedievalfence-ew-free", quantity: 4  }
 	}
 ]

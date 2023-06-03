@@ -2,7 +2,7 @@
 	code: "colorpowder",
 	heldTpIdleAnimation: "holdbothhands",
 	variantgroups: [
-		{ code:"color", states: [ "black", "blue", "brown", "lightbrown", "gray", "green", "orange", "pink", "purple", "red", "white", "yellow"] }
+		{ code:"color", states: [ "black", "blue", "brown", "gray", "green", "orange", "pink", "purple", "red", "white", "yellow"] }
 	],
 	attributes: {
 		barrelMoveToLiquidSlot: true,

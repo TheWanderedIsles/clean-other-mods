@@ -2,10 +2,10 @@
 	code: "charcoalresin",
 	shape: { base: "item/resource/charcoalresin" },
 	creativeinventory: { "general": ["*"], "items": ["*"], "medieval": ["*"] },
-	class: "ItemCoal",
+	class: "ItemCharcoalResin",
 	maxstacksize: 128,
 	attributes: {
-		placeSound: "game:block/charcoal",
+		placeSound: "block/charcoal",
 		displaycaseable: true,
 		shelvable: true
 	},
