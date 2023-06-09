@@ -11,8 +11,8 @@
 		"var": 2
 	    },
 	    "price": {
-		"avg": 3,
-		"var": 0.5
+		"avg": 30,
+		"var": 5
 	    }
     },
     "file": "game:entities/humanoid/trader-survivalgoods.json",

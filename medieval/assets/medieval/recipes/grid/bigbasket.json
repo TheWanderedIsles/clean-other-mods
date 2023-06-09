@@ -4,7 +4,7 @@
 		ingredientPattern: "LLL,LXL,LLL",
 		ingredients: {
 			"X": { type: "block", code: "game:stationarybasket-east", attributes: { type: "reed" } },
-			"L":{ type: "item", code: "game:cattailtops", quantity: 5 }
+			"L":{ type: "item", code: "cattailtops", quantity: 5 }
 			
 		},
 		width: 3,

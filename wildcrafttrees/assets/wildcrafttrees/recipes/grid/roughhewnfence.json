@@ -7,5 +7,5 @@
 	},
 	width: 3,
 	height: 2,
-	output: { type: "block", code: "game:roughhewnfence-{wood}-ew-free", quantity: 8  }
+	output: { type: "block", code: "game:roughhewnfence-{wood}-ew-free", quantity: 4  }
 }

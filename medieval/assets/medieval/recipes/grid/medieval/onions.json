@@ -6,6 +6,6 @@
 		},
 		width: 3,
 		height: 2,
-		output: { type: "block", code: "onions-onions", quantity: 1 }
+		output: { type: "block", code: "medieval:onions-onions", quantity: 1 }
 	}
 ]

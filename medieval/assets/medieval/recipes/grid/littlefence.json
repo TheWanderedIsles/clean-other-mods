@@ -1,21 +1,22 @@
 [
-  {
-    "ingredientPattern": "H,W",
+{
+    "ingredientPattern": "H_,W_",
     "ingredients": {
-      "H": { "type": "item", "code": "game:saw-*", "isTool": true  },
-      "W": { "type": "block", "code": "game:roughhewnfence-*-ew-free", "name": "wood", "allowedVariants": [ "acacia", "aged", "baldcypress", "birch", "kapok", "larch", "maple", "oak", "pine", "redwood", "walnut" ] }
+		"H": { "type": "item", "code": "game:saw-*", "isTool": true  },
+		"W": { "type": "block", "code": "game:roughhewnfence-*-ew-free", "name": "wood", "allowedVariants": [ "acacia", "aged", "baldcypress", "birch", "kapok", "larch", "maple", "pine", "redwood", "walnut" ] },
     },
-    "width": 1,
+    "width": 2,
     "height": 2,
-    "output": { "type": "block", "code": "littlefence-{wood}-south", "quantity": 2 }
+    "output": { "type": "block", "code": "medieval:littlefence-{wood}-south", "quantity": 2 }
   },
   {
-    "ingredientPattern": "R,R",
+    "ingredientPattern": "H,R,R",
     "ingredients": {
-      "R": { "type": "block", "code": "littlefence-*-south", "name": "material", "allowedVariants": [ "acacia", "aged", "baldcypress", "birch", "kapok", "larch", "maple", "oak", "pine", "redwood", "walnut" ] }
+      "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
+      "R": { "type": "block", "code": "littlefence-*-south", "name": "material", "allowedVariants": [ "acacia", "aged", "baldcypress", "birch", "kapok", "larch", "maple", "oak", "pine", "redwood", "walnut" ]}
     },
     "width": 1,
-    "height": 2,
+    "height": 3,
     "output": { "type": "block", "code": "game:roughhewnfence-{material}-ew-free", "quantity": 1 }
   }
 ]

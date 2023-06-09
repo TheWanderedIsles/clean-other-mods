@@ -9,7 +9,7 @@
        ]
       }
     ],
-    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 8}
+    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 12}
   },
   {
     "toolmode": "sawing",
@@ -21,7 +21,7 @@
        ]
       }
     ],
-    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 8}
+    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 12}
   },
   {
     "toolmode": "sawing",
@@ -33,6 +33,6 @@
        ]
       }
     ],
-    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 8}
+    "output": {"type": "item", "code": "game:plank-{wood}", "quantity": 12}
   }
 ]
