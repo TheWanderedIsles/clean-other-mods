@@ -3,7 +3,7 @@
 		ingredientPattern: "__K,LL_,LL_",
 		ingredients: {
 			"K": { type: "item", code: "game:knife-*", isTool: true },
-			"L": { type: "item", code: "wildcraft:plantfibers-*", quantity: 2 }
+			"L": { type: "item", code: "wildcraft:plantfibers-*", quantity: 3 }
 		},
 		width: 3,
 		height: 3,
@@ -13,7 +13,7 @@
 		ingredientPattern: "__K,PP_,PP_",
 		ingredients: {
 			"K": { type: "item", code: "game:knife-*", isTool: true },
-			"P": { type: "item", code: "wildcraft:plantfibers-*", quantity: 2 }
+			"P": { type: "item", code: "wildcraft:plantfibers-*", quantity: 3 }
 		},
 		width: 3,
 		height: 3,

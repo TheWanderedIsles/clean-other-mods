@@ -36,7 +36,7 @@
 		wearableAttachment: true,
 		attachShape: { base: "item/bag/wickerminingpack-attached" },
 		backpack: {
-			quantitySlots: 6,
+			quantitySlots: 12,
 			storageFlags: 4,
 			slotBgColor: "#c2ffe8"
 		}

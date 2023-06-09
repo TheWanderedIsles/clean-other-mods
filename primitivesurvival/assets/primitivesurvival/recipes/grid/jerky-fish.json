@@ -11,12 +11,12 @@
         "H": {
             "type": "item",
             "code": "primitivesurvival:fishfillet-raw",
-            "quantity": 4
+            "quantity": 32
         },
         "S": {
             "type": "item",
             "code": "game:salt",
-            "quantity": 1
+            "quantity": 8
         }
     },
   "name": "jerky-fish",
@@ -25,6 +25,6 @@
   "output": {
     "type": "item",
     "code": "primitivesurvival:jerky-fish-raw",
-    "quantity": 16
+    "quantity": 48
   }
 }

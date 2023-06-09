@@ -6,7 +6,7 @@
 		wearableAttachment: true,
 		attachShape: { base: "item/bag/framepack-attached" },
 		backpack: {
-			quantitySlots: 8
+			quantitySlots: 20
 		}
 	},
 	shape: { base: "item/bag/framepack" },

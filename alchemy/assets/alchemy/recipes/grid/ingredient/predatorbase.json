@@ -2,49 +2,49 @@
   {
     "ingredientPattern": "M,F,T",
     "ingredients": {
-      "M": { "type": "item", "code": "game:*meat-*" },
-      "F": { "type": "block", "code": "game:flower-horsetail-free" },
+      "M": { "type": "item", "code": "game:*meat-*","quantity": 16 },
+      "F": { "type": "block", "code": "game:flower-horsetail-free","quantity": 16 },
       "T": { "type": "item", "code": "alchemy:mortarpestle-*", "isTool": true }
     },
     "shapeless": true,
     "width": 1,
     "height": 3,
-    "output": { "type": "item", "code": "alchemy:potionbase-predator-weak" }
+    "output": { "type": "item", "code": "alchemy:potionbase-predator-weak","quantity": 8 }
   },
   {
     "ingredientPattern": "M,F,T",
     "ingredients": {
-      "M": { "type": "item", "code": "game:*meat-*" },
-      "F": { "type": "item", "code": "alchemy:cuttings-horsetail-cooked" },
+      "M": { "type": "item", "code": "game:*meat-*","quantity": 16 },
+      "F": { "type": "item", "code": "alchemy:cuttings-horsetail-cooked","quantity": 16 },
       "T": { "type": "item", "code": "alchemy:mortarpestle-*", "isTool": true }
     },
     "shapeless": true,
     "width": 1,
     "height": 3,
-    "output": { "type": "item", "code": "alchemy:potionbase-predator-strong" }
+    "output": { "type": "item", "code": "alchemy:potionbase-predator-strong","quantity": 8 }
   },
   {
     "ingredientPattern": "M,F,T",
     "ingredients": {
-      "M": { "type": "item", "code": "game:*meat-*" },
-      "F": { "type": "block", "code": "game:flower-cornflower-*" },
+      "M": { "type": "item", "code": "game:*meat-*","quantity": 16 },
+      "F": { "type": "block", "code": "game:flower-cornflower-*","quantity": 16 },
       "T": { "type": "item", "code": "alchemy:mortarpestle-*", "isTool": true }
     },
     "shapeless": true,
     "width": 1,
     "height": 3,
-    "output": { "type": "item", "code": "alchemy:potionbase-predator-weak" }
+    "output": { "type": "item", "code": "alchemy:potionbase-predator-weak","quantity": 8 }
   },
   {
     "ingredientPattern": "M,F,T",
     "ingredients": {
-      "M": { "type": "item", "code": "game:*meat-*" },
-      "F": { "type": "item", "code": "alchemy:cuttings-cornflower-cooked" },
+      "M": { "type": "item", "code": "game:*meat-*","quantity": 16 },
+      "F": { "type": "item", "code": "alchemy:cuttings-cornflower-cooked","quantity": 16 },
       "T": { "type": "item", "code": "alchemy:mortarpestle-*", "isTool": true }
     },
     "shapeless": true,
     "width": 1,
     "height": 3,
-    "output": { "type": "item", "code": "alchemy:potionbase-predator-strong" }
+    "output": { "type": "item", "code": "alchemy:potionbase-predator-strong","quantity": 8 }
   }
 ]

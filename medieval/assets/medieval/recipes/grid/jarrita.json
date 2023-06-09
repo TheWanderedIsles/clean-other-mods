@@ -1,11 +1,12 @@
 [
 
 	{
-		ingredientPattern: "B",
+		ingredientPattern: "BH",
 		ingredients: {
-    		"B": { type: "block", code: "game:jug-blue-fired", quantity: 1 }
+    		"B": {type: "Item", code: "game:metalplate-blackbronze", quantity: 1 },
+			"H": { type: "item", code: "game:hammer-*", isTool: true }
 		},
-		width: 1,
+		width: 2,
 		height: 1,
 		output: { type: "block", code: "medieval:jarrita", quantity: 1  }
 	}

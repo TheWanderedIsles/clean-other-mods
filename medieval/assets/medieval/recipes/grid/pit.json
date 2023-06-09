@@ -1,8 +1,9 @@
 [
     {
-		ingredientPattern: "AAA",
+		ingredientPattern: "ASA",
 		ingredients: {
-			"A": { type: "block", code: "game:torch-basic-lit-up" }
+			"A": { type: "block", code: "game:torch-basic-lit-up" },
+			"S": {type: "Item", code: "medieval:supercoal", quantity:4 }
 		},
 		width: 3,
 		height: 1,

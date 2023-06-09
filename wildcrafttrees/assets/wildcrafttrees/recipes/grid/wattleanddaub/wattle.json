@@ -8,5 +8,5 @@
 		name: "wattleanddaub",
 		width: 2,
 		height: 2,
-		output: { type: "block", code: "wildcrafttrees:wattle-{wood}-ew-free", quantity: 4  }
+		output: { type: "block", code: "wildcrafttrees:wattle-{wood}-ew-free", quantity: 2  }
 	}

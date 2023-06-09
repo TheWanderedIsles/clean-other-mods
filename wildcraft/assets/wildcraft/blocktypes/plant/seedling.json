@@ -26,6 +26,8 @@
         "*-dock-*": "wildcraft:annualplant-dock-normal",
         "*-stingingnettle-*": "wildcraft:annualplant-stingingnettle-normal",
         "*-saltwort-*": "wildcraft:annualplant-saltwort-normal",
+		"*-duckweed-*": "wildcraft:duckweed-duckweed-nw",
+        "*-arnica-*": "wildcraft:perennialplant-arnica-normal",
   
         "*-lavender-*": "wildcraft:evergreenplant-lavender-normal",
         "*-rosemary-*": "wildcraft:evergreenplant-rosemary-normal",

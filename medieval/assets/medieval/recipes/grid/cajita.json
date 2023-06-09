@@ -1,21 +1,16 @@
 [
 
-
-
-
-
-
-
 	{
-		ingredientPattern: "PS,SP",
+		ingredientPattern: "PSN,SP_",
 		ingredients: {
-				"P": { type: "item", code: "game:plank-*", quantity: 1 },
-				"S": { type: "item", code: "game:stick", quantity: 1 }
+				"P": { type: "item", code: "game:plank-*", quantity: 12},
+				"S": { type: "item", code: "game:stick", quantity: 12},
+				"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 12}
 		},
-		width: 2,
+		width: 3,
 		height: 2,
 		
-		output: { type: "block", code: "medieval:cajitafloor-none-north", quantity: 1  }
+		output: { type: "block", code: "medieval:cajitafloor-none-north", quantity: 4  }
 	},
 	{
 		ingredientPattern: "C",
@@ -191,5 +186,6 @@
 		height: 1,
 		
 		output: { type: "block", code: "medieval:cajitafloor-turnip-north", quantity: 1  }
-	}
+	},
+
 ]

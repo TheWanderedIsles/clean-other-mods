@@ -1,23 +1,25 @@
 [
 	{
-	"ingredientPattern": "BF",
+	"ingredientPattern": "WFB",
 	"ingredients": {
                 "B": { "type": "block", "code": "bricklayers:glazedbowl-burnt-clear-*-plain", "name": "color" },
-                "F": { "type": "item", "code": "game:fat" }
+                "F": { "type": "item", "code": "game:fat" },
+				"W": { "type": "item", "code": "game:flaxfibers" }
         },
-        "width": 2,
-        "height": 1,
+        "width": 1,
+        "height": 3,
 	"shapeless": true,
         "output": { "type": "block", "code": "bricklayers:glazedoillamp-clear-{color}-up"  }
 	},
 	{
-	"ingredientPattern": "BF",
+	"ingredientPattern": "WFB",
 	"ingredients": {
                 "B": { "type": "block", "code": "bricklayers:glazedbowl-burnt-milky-*-plain", "name": "color" },
-                "F": { "type": "item", "code": "game:fat" }
+                "F": { "type": "item", "code": "game:fat" },
+				"W": { "type": "item", "code": "game:flaxfibers" }
         },
-        "width": 2,
-        "height": 1,
+        "width": 1,
+        "height": 3,
 	"shapeless": true,
         "output": { "type": "block", "code": "bricklayers:glazedoillamp-milky-{color}-up"  }
 	}

@@ -27,7 +27,7 @@
       "perTierFlatDamageReductionLoss": [0.1, 0.2]
     },
     "footStepSoundByType": {
-      "medievalarmor-body-iron": "game:wearable/leather*"
+      "medievalarmor-body-iron": "game:wearable/chain*"
     },
     "protectionModifiersByType": {
       "medievalarmor-head-*": {
@@ -39,11 +39,11 @@
     },
     "statModifiersByType": {
       "medievalarmor-body-*": {
-        "rangedWeaponsAcc": 0.2,
-        "rangedWeaponsSpeed": 0.1,
-        "walkSpeed": 0.1,
+        "rangedWeaponsAcc": 0.05,
+        "rangedWeaponsSpeed": 0.05,
+        "walkSpeed": 0.01,
         "healingeffectivness": 0.1,
-        "hungerrate": -0.3
+        "hungerrate": -0.2
       }
     }
   },

@@ -1,7 +1,7 @@
 {
 	code: "forestaxehead",
 	variantgroups: [
-		{ code: "material", states: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ] },
+		{ code: "material", states: ["copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ] },
 	],
 	heldTpUseAnimation: "interactstatic", maxstacksize: 4,
 	shape: { "base": "item/toolhead/forestaxehead" },

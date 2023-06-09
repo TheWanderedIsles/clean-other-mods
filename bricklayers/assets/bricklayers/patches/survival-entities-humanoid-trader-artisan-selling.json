@@ -11,8 +11,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 1
+		"avg": 20,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -30,8 +30,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 22,
-		"var": 3
+		"avg": 220,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -49,8 +49,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 21,
-		"var": 3
+		"avg": 210,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -68,8 +68,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 16,
-		"var": 3
+		"avg": 160,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -87,8 +87,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 16,
-		"var": 3
+		"avg": 160,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -106,8 +106,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 15,
-		"var": 3
+		"avg": 150,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -125,8 +125,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 17,
-		"var": 3
+		"avg": 170,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -144,8 +144,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 17,
-		"var": 3
+		"avg": 170,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -163,8 +163,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -182,8 +182,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 8,
-		"var": 1
+		"avg": 80,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -201,8 +201,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -220,8 +220,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -239,8 +239,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -258,8 +258,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -277,8 +277,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 9,
-		"var": 1
+		"avg": 90,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -296,8 +296,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 8,
-		"var": 1
+		"avg": 80,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -315,8 +315,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -334,8 +334,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -353,8 +353,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -372,8 +372,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -391,8 +391,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",
@@ -410,8 +410,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-artisan.json",

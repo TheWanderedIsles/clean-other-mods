@@ -1,5 +1,6 @@
 {
 	"ingredient": { "type": "item", "code": "game:clay-*", "name": "color", "allowedVariants": [ "blue", "fire" ] },
+	requiresTrait: "Artisan",
 	"pattern": [[
 		"###__###",
 		"###__###",

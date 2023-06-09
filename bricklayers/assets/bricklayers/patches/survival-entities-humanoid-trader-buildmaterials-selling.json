@@ -11,8 +11,8 @@
 		"var": 3
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.5
+		"avg": 20,
+		"var": 05
 	    }
     },
     "file": "game:entities/humanoid/trader-buildmaterials.json",
@@ -30,8 +30,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-buildmaterials.json",
@@ -49,8 +49,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 4,
-		"var": 1
+		"avg": 40,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-buildmaterials.json",
@@ -68,8 +68,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 4,
-		"var": 1
+		"avg": 40,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-buildmaterials.json",
@@ -87,8 +87,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 5,
-		"var": 1
+		"avg": 50,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-buildmaterials.json",

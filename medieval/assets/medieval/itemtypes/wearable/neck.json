@@ -3,14 +3,11 @@
 	class: "ItemWearable",
 	variantgroups: [
 		{ code: "category",  states: ["neck"] },
-		{ code: "neck", combine: "SelectiveMultiply", onVariant: "category", states: [ "diamond-amulet", "fang-amulet", "fang2-amulet", "fang3-amulet", "silver-amulet", "gold", "gold-amethyst", "gold-charcoal", "gold-cinnabar", "gold-diamond", "gold-emerald", "gold-lapislazuli", "gold-olivine", "gold-olivine-p", "gold-rosyquartz", "gold-smokyquartz", "gold-sylvite", "tatoo", "footrabbit-amulet" ] }
+		{ code: "neck", combine: "SelectiveMultiply", onVariant: "category", states: [ "diamond-amulet", "fang-amulet", "fang2-amulet", "fang3-amulet", "silver-amulet", "gold", "gold-amethyst", "gold-charcoal", "gold-cinnabar", "gold-diamond", "gold-emerald", "gold-lapislazuli", "gold-olivine", "gold-olivine-p", "gold-rosyquartz", "gold-smokyquartz", "gold-sylvite", "tatoo" ] }
 	],
 	shapeByType: {
 		"*-diamond-amulet": {
 			base: "entity/humanoid/seraph/clothing/neck/diamond-amulet" 
-		},
-		"*-footrabbit-amulet": {
-			base: "entity/humanoid/seraph/clothing/neck/footrabbit-amulet" 
 		},
 		"*-fang-amulet": {
 			base: "entity/humanoid/seraph/clothing/neck/fang-amulet" 
@@ -80,9 +77,6 @@
 		"*-diamond-amulet": {
 			"seraph": { base: "game:block/transparent" }
 		},
-		"*-footrabbit-amulet": {
-			"seraph": { base: "game:block/transparent" }
-		},
 		"*-fang-amulet": {
 			"seraph": { base: "game:block/transparent" }
 		},
@@ -149,7 +143,7 @@
 		scale: 0.71
 	},
 	guiTransformByType: {
-		"@*-(diamond-amulet|fang-amulet|fang2-amulet|fang3-amulet|footrabbit-amulet)": {
+		"@*-(diamond-amulet|fang-amulet|fang2-amulet|fang3-amulet)": {
 			rotate: false,
 			translation: { x: 0, y: 0, z: 0 },
 			rotation: { x: 163, y: -113, z: 6 },

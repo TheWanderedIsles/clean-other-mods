@@ -3,21 +3,12 @@
 	{
 		ingredientPattern: "L,S",
 		ingredients: {
-    		"S": { type: "item", code: "game:knife-*", isTool: true },
-    		"L": { type: "block", code: "game:planks-*" }
+    		"S": { type: "item", code: "game:chisel-*", isTool: true },
+    		"L": {type: "Block", code: "game:debarkedlog-*" }
 		},
 		width: 1,
 		height: 2,
-		output: { type: "block", code: "medieval:jar-medieval", quantity: 2  }
+		output: { type: "block", code: "medieval:jar-medieval", quantity: 8  }
 	},
-	{
-		ingredientPattern: "L,S",
-		ingredients: {
-    		"S": { type: "item", code: "medieval:knife-*", isTool: true },
-    		"L": { type: "block", code: "game:planks-*" }
-		},
-		width: 1,
-		height: 2,
-		output: { type: "block", code: "medieval:jar-medieval", quantity: 2  }
-	}
+	
 ]
