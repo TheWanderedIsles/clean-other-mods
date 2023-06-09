@@ -1,6 +1,7 @@
 [
 	{
 		ingredientPattern: "S,S",
+		enabled: false,
 		ingredients: {
 			"S": { type: "block", code: "game:ladder-wood-north" }
 		},

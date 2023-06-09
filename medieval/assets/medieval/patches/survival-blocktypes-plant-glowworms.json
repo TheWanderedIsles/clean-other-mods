@@ -6,7 +6,7 @@
       "type": "block",
       "code": "glowworms-{type}",
       "quantity": {
-        "avg": 1,
+        "avg": 0.5,
         "var": 0.25
       }
     },

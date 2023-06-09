@@ -1,10 +1,11 @@
 [
-
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-black-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-black", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -12,10 +13,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-blue-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-blue", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -23,10 +26,12 @@
 	},
 
 	{
-		ingredientPattern: "_L_,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-aged" },
-			"L": { type: "item", code: "game:hide-pelt-huge" }
+			"P": { type: "item", code: "game:plank-aged", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-brown", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -34,10 +39,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-gray-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-gray", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -45,10 +52,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-green-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-green", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -56,10 +65,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-orange-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-orange", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -67,10 +78,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-pink-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-pink", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -78,10 +91,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-purple-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-purple", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -89,10 +104,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-red-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-red", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -100,10 +117,12 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-white-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-white", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
@@ -111,15 +130,15 @@
 	},
 
 	{
-		ingredientPattern: "LLL,PPP",
+		ingredientPattern: "LFF,PNP",
 		ingredients: {
-			"P": { type: "item", code: "game:plank-*" },
-			"L": { type: "block", code: "medieval:colorlinen-yellow-down" }
+			"P": { type: "item", code: "game:plank-*", quantity: 10 },
+			"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 10},
+			"L": { type: "item", code: "game:cloth-yellow", quantity: 3 },
+			"F": {type: "item", code: "game:feather", quantity:8}
 		},
 		width: 3,
 		height: 2,
 		output: { type: "block", code: "medieval:medievalbed-yellow-head-north" }
 	}
-
-
 ]

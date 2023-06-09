@@ -2,11 +2,11 @@
     {
 		ingredientPattern: "CCS,CC_",
 		ingredients: {
-			"C": { type: "item", code: "charcoalpowder" },
-			"S": { type: "item", code: "game:powderedsulfur" }
+			"C": {type: "Item", code: "em:powdered-ore-coal" },
+			"S": { type: "item", code: "game:powderedsulfur", quantity:2 }
 		},
 		width: 3,
 		height: 2,
-		output: { type: "item", code: "supercoal", quantity: 4 }
+		output: { type: "item", code: "supercoal", quantity: 2 }
 	}
 ]

@@ -1,5 +1,5 @@
 [
-  {
+		{
     "ingredientPattern": "A,L",
     "ingredients": {
       "A": {
@@ -9,7 +9,7 @@
       },
       "L": {
         "type": "block",
-        "code": "treehollow*"
+        "code": "primitivesurvival:treehollow*"
       }
     },
     "width": 1,
@@ -17,7 +17,7 @@
     "output": {
       "type": "item",
       "code": "game:firewood",
-      "quantity": 4
+      "quantity": 2
     }
   }
 ]

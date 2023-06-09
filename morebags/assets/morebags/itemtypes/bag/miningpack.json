@@ -38,7 +38,7 @@
 		wearableAttachment: true,
 		attachShape: { base: "item/bag/miningpack-attached" },
 		backpack: {
-			quantitySlots: 15,
+			quantitySlots: 20,
 			storageFlags: 4,
 			slotBgColor: "#c2ffe8"
 		}

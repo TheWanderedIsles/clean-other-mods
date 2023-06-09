@@ -61,7 +61,7 @@
 			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 			"W": { type: "item", code: "game:plank-*" },
 			"D": { type: "block", code: "game:door-solid-*"  },
-      		"B": { "type": "item", "code": "medieval:metalbar-molybdochalkos", quantity: 1 }
+      		"B": { "type": "item", "code": "hammersringingfall:metalband-*", quantity: 4 }
 		},
 		width: 3,
 		height: 3,
@@ -155,8 +155,8 @@
 		"W": { type: "item", code: "game:plank-*" },
 		"S": { type: "block", code: "game:trapdoor-closed-up-north", quantity: 1 },
 	},
-	width: 2,
-	height: 2,
+	width: 3,
+	height: 3,
 	output: { type: "block", code: "medieval:woodentrapdoor-closed-up-north", quantity: 2  }
 	},
 	{
@@ -165,7 +165,7 @@
 		"H": { type: "item", code: "game:hammer-*", isTool: true  },
 		"W": { type: "item", code: "game:plank-*" },
 		"S": { type: "block", code: "game:trapdoor-closed-up-north", quantity: 1 },
-      	"B": { "type": "item", "code": "medieval:metalbar-molybdochalkos", quantity: 1 }
+      	"B": { "type": "item", "code": "hammersringingfall:metalband-*", quantity: 4 }
 	},
 	width: 3,
 	height: 2,
@@ -175,7 +175,7 @@
 	ingredientPattern: "S,H,H",
 	ingredients: {
 		"S": { type: "item", code: "game:stick" },
-		"H": { type: "item", code: "game:hide-pelt-medium" }
+		"H": { type: "item", code: "game:hide-pelt-huge" }
 	},
 	width: 1,
 	height: 3,

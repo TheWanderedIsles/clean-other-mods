@@ -316,6 +316,113 @@
 			"H": { type: "item", code: "game:leather-plain", quantity: 2 },
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-black", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-black"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-blue", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-blue"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-gray", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-gray"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-green", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-green"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-red", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-red"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-white", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-white"  }
+	},
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-plain", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
+			"K": { type: "item", code: "game:game:knife-*", isTool: true  }
+		},
+		width: 3,
+		height: 2,
+		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt"  }
+	},
+
+
+
+	{
+		ingredientPattern: "FKF,HCH",
+		recipeGroup: 2,
+		ingredients: {
+			"H": { type: "item", code: "game:leather-plain", quantity: 2 },
+			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
+			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
 			"K": { type: "item", code: "game:knife-*", isTool: true  }
 		},
 		width: 3,
@@ -408,113 +515,6 @@
 			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
 			"K": { type: "item", code: "game:knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt"  }
-	},
-
-
-
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-plain", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-black", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-black"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-blue", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-blue"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-gray", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-gray"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-green", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-green"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-red", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-red"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-white", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
-		},
-		width: 3,
-		height: 2,
-		output: { type: "item", code: "clothes-upperbody-medieval-leather-shirt-white"  }
-	},
-	{
-		ingredientPattern: "FKF,HCH",
-		recipeGroup: 2,
-		ingredients: {
-			"H": { type: "item", code: "game:leather-plain", quantity: 2 },
-			"C": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"F": { type: "item", code: "medieval:stripsofleather", quantity: 1 },
-			"K": { type: "item", code: "knife-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -539,7 +539,7 @@
 			"G": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -552,7 +552,7 @@
 			"G": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -565,7 +565,7 @@
 			"G": { type: "item", code: "game:cloth-gray", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -578,7 +578,7 @@
 			"G": { type: "item", code: "game:cloth-gray", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -591,7 +591,7 @@
 			"G": { type: "item", code: "game:cloth-green", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -604,7 +604,7 @@
 			"G": { type: "item", code: "game:cloth-green", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -617,7 +617,7 @@
 			"G": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -630,7 +630,7 @@
 			"G": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -643,7 +643,7 @@
 			"G": { type: "item", code: "game:cloth-red", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -656,7 +656,7 @@
 			"G": { type: "item", code: "game:cloth-red", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -669,7 +669,7 @@
 			"G": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -682,7 +682,7 @@
 			"G": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"C": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -698,7 +698,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -709,7 +709,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -720,7 +720,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-brown", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -731,7 +731,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-brown", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -742,7 +742,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-gray", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -753,7 +753,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-gray", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -764,7 +764,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-green", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -775,7 +775,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-green", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -786,7 +786,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -797,7 +797,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -808,7 +808,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-red", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -819,7 +819,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-red", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -830,7 +830,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -841,7 +841,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -852,7 +852,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -863,7 +863,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "medieval:stripsofleather" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -977,7 +977,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:leather-white", quantity: 1 },
 			"F": { type: "item", code: "game:leather-gray" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -988,7 +988,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:leather-white", quantity: 1 },
 			"F": { type: "item", code: "game:leather-gray" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -999,7 +999,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-plain" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1010,7 +1010,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-plain" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1021,7 +1021,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-black" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1032,7 +1032,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-black" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1043,7 +1043,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-blue" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1054,7 +1054,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-blue" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1065,7 +1065,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-brown" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1076,7 +1076,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-brown" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1087,7 +1087,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-gray" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1098,7 +1098,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-gray" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1109,7 +1109,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-green" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1120,7 +1120,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-green" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1131,7 +1131,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-orange" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1142,7 +1142,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-orange" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1153,7 +1153,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-pink" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1164,7 +1164,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-pink" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1175,7 +1175,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-purple" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1186,7 +1186,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-purple" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1197,7 +1197,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-red" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1208,7 +1208,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-red" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1219,7 +1219,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-white" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1230,7 +1230,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-white" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1241,7 +1241,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-yellow" },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1252,7 +1252,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"F": { type: "item", code: "game:cloth-yellow" },
-			"K": { type: "item", code: "shears-*", isTool: true  }
+			"K": { type: "item", code: "game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 2,
@@ -1262,7 +1262,7 @@
 		ingredientPattern: "B_B,BBB,__K",
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
-			"K": { type: "item", code: "game:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1272,7 +1272,7 @@
 		ingredientPattern: "B_B,BBB,__K",
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
-			"K": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"K": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1326,7 +1326,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-white", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1337,7 +1337,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-white", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1348,7 +1348,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-brown", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1359,7 +1359,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-yellow", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-brown", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1370,7 +1370,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1381,7 +1381,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-blue", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-plain", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1392,7 +1392,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-black", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1403,7 +1403,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-orange", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-black", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1414,7 +1414,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-red", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1425,7 +1425,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-black", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-red", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1436,7 +1436,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-brown", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-pink", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1447,7 +1447,7 @@
 		ingredients: {
 			"B": { type: "item", code: "game:cloth-brown", quantity: 1 },
 			"W": { type: "item", code: "game:cloth-pink", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 3,
 		height: 3,
@@ -1578,7 +1578,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-black-neck", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,
@@ -1588,7 +1588,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-brown-neck", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,
@@ -1598,7 +1598,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-red-neck", quantity: 1 },
-			"S": { type: "item", code: "medieval:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,
@@ -1608,7 +1608,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-black-neck", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,
@@ -1618,7 +1618,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-brown-neck", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,
@@ -1628,7 +1628,7 @@
 		ingredientPattern: "SB",
 		ingredients: {
 			"B": { type: "item", code: "clothes-upperbody-medieval-large-red-neck", quantity: 1 },
-			"S": { type: "item", code: "game:shears-*", isTool: true  }
+			"S": { type: "item", code: "game:game:shears-*", isTool: true  }
 		},
 		width: 2,
 		height: 1,

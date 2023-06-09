@@ -1,5 +1,5 @@
 {
-    "ingredientPattern": "BCB,BPB,BBB",
+    "ingredientPattern": "BCB,BPB,BNB",
     "ingredients": {
         "P": {
             "type": "item",
@@ -13,8 +13,10 @@
             "type": "item",
             "code": "game:plank-*",
           "allowedVariants": [ "acacia", "aged", "birch", "kapok", "maple", "oak", "pine", "baldcypress", "larch", "redwood", "ebony", "walnut", "purpleheart" ],
-            "name": "wood"
-        }
+            "name": "wood",
+			"quantity": 2
+        },
+		"N": {"type": "Item", "code": "hammersringingfall:rivet-copper", "quantity":4 }
     },
     "width": 3,
     "height": 3,

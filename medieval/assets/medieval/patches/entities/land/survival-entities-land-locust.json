@@ -7,7 +7,7 @@
         "type": "block",
         "code": "medieval:locustsack",
         "quantity": {
-          "avg": 1,
+          "avg": 0.01,
           "var": 0
         }
       }
@@ -22,7 +22,7 @@
         "type": "block",
         "code": "medieval:locustsack",
         "quantity": {
-          "avg": 1,
+          "avg": 0.01,
           "var": 0
         }
       }
@@ -36,7 +36,7 @@
       "type": "block",
       "code": "medieval:locustsackred",
       "quantity": {
-        "avg": 1,
+        "avg": 0.01,
         "var": 0
       }
     },

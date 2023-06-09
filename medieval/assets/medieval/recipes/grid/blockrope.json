@@ -2,10 +2,10 @@
     {
 		ingredientPattern: "F,F,F",
 		ingredients: {
-			"F": { type: "item", code: "game:flaxfibers" }
+			"F": { type: "item", code: "game:rope" }
 		},
 		width: 1,
 		height: 3,
-		output: { type: "block", code: "blockrope-ropenormal", quantity: 1 }
+		output: { type: "block", code: "medieval:blockrope-ropenormal", quantity: 1 }
 	}
 ]

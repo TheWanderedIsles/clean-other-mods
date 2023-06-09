@@ -1,11 +1,12 @@
 {
-	ingredientPattern: "RTF,PPP,S_S",
+	ingredientPattern: "RTF,PPP,SNS",
 	ingredients: {
 		"S": { type: "item", code: "game:stick", quantity: 2 },
-		"P": { type: "item", code: "game:plank-*", quantity: 1 },
-		"T": { type: "item", code: "game:resin", quantity: 1 },
-		"F": { type: "item", code: "game:flaxtwine", quantity: 1 },
-		"R": { type: "block", code: "game:angledgears-s"  }
+		"P": { type: "item", code: "game:plank-*", quantity: 4 },
+		"T": { type: "item", code: "game:resin", quantity: 2 },
+		"F": { type: "item", code: "game:flaxtwine", quantity: 2 },
+		"R": { type: "block", code: "game:angledgears-s"  },
+		"N": { "type": "item", "code": "hammersringingfall:nail-*","quantity": 4},
 	},
 	width: 3,
 	height: 3,

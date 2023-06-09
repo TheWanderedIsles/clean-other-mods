@@ -6,7 +6,7 @@
 	},
 	width: 1,
 	height: 2,
-	output: { type: "block", code: "game:torchholder-aged-empty-north", quantity: 4  }
+	output: { type: "block", code: "game:torchholder-aged-empty-north", quantity: 1  }
 
 	},
 	{
@@ -16,7 +16,7 @@
 	},
 	width: 3,
 	height: 2,
-	output: { type: "block", code: "game:chandelier-candle0", quantity: 2  }
+	output: { type: "block", code: "game:chandelier-candle0", quantity: 1  }
 
 	},
 	{

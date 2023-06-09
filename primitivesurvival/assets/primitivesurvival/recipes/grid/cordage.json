@@ -5,7 +5,7 @@
       "W": {
         "type": "block",
         "code": "game:wildvine-section-*",
-        "quantity": 2
+        "quantity": 4
       }
     },
     "width": 1,
@@ -22,7 +22,7 @@
       "W": {
         "type": "block",
         "code": "game:wildvine-end-*",
-        "quantity": 3
+        "quantity": 6
       }
     },
     "width": 1,
@@ -39,7 +39,7 @@
       "L": {
         "type": "item",
         "code": "game:cattailtops",
-        "quantity": 3
+        "quantity": 6
       }
     },
     "width": 1,
@@ -56,7 +56,7 @@
       "L": {
         "type": "item",
         "code": "game:papyrustops",
-        "quantity": 3
+        "quantity": 6
       }
     },
     "width": 1,

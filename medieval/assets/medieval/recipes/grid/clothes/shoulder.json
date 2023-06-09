@@ -17,7 +17,7 @@
 			"W": { type: "item", code: "game:leather-white", quantity: 1 },
 			"G": { type: "item", code: "game:leather-gray", quantity: 1 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 1 },
-			"K": { type: "item", code: "game:shears-*",  isTool: true }
+			"K": { type: "item", code: "game:game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 3,
@@ -29,7 +29,7 @@
 			"W": { type: "item", code: "game:leather-white", quantity: 1 },
 			"G": { type: "item", code: "game:leather-gray", quantity: 1 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 1 },
-			"K": { type: "item", code: "shears-*",  isTool: true }
+			"K": { type: "item", code: "game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 3,
@@ -101,7 +101,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-white", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:shears-*",  isTool: true }
+			"K": { type: "item", code: "game:game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -112,7 +112,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-white", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "shears-*",  isTool: true }
+			"K": { type: "item", code: "game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -123,7 +123,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-pink", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:shears-*",  isTool: true }
+			"K": { type: "item", code: "game:game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -134,7 +134,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-pink", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "shears-*",  isTool: true }
+			"K": { type: "item", code: "game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -145,7 +145,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-purple", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:shears-*",  isTool: true }
+			"K": { type: "item", code: "game:game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -156,7 +156,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-purple", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "shears-*",  isTool: true }
+			"K": { type: "item", code: "game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -167,7 +167,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-blue", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "game:shears-*",  isTool: true }
+			"K": { type: "item", code: "game:game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,
@@ -178,7 +178,7 @@
 		ingredients: {
 			"L": { type: "item", code: "game:cloth-blue", quantity: 2 },
 			"S": { type: "item", code: "game:sewingkit", quantity: 2 },
-			"K": { type: "item", code: "shears-*",  isTool: true }
+			"K": { type: "item", code: "game:shears-*",  isTool: true }
 		},
 		width: 3,
 		height: 2,

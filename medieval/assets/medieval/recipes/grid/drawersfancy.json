@@ -7,8 +7,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-acacia" }
 		},
@@ -99,17 +100,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-acacia-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-acacia-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-acacia-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -220,8 +210,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-baldcypress" }
 		},
@@ -312,17 +303,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-baldcypress-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-baldcypress-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-baldcypress-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -433,8 +413,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-birch" }
 		},
@@ -525,17 +506,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-birch-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-birch-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-birch-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -646,8 +616,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-ebony" }
 		},
@@ -738,17 +709,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-ebony-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-ebony-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-ebony-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -859,8 +819,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-kapok" }
 		},
@@ -951,17 +912,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-kapok-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-kapok-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-kapok-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -1072,8 +1022,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-larch" }
 		},
@@ -1164,17 +1115,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-larch-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-larch-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-larch-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -1285,8 +1225,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-maple" }
 		},
@@ -1377,17 +1318,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-maple-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-maple-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-maple-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -1498,8 +1428,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-oak" }
 		},
@@ -1590,17 +1521,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-oak-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-oak-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-oak-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -1711,8 +1631,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-pine" }
 		},
@@ -1803,17 +1724,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-pine-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-pine-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-pine-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -1924,8 +1834,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-purpleheart" }
 		},
@@ -2016,17 +1927,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-purpleheart-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-purpleheart-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-purpleheart-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -2137,8 +2037,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-redwood" }
 		},
@@ -2229,17 +2130,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-redwood-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-redwood-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-redwood-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,
@@ -2350,8 +2240,9 @@
 
 
 	{
-		ingredientPattern: "WWW,WSW,_W_",
+		ingredientPattern: "HWH,WSW,WWW",
 		ingredients: {
+				"H": { "type": "item", "code": "hammersringingfall:hinge-*"},
 				"S": { type: "block", code: "game:chest-east", "attributes": { type: "normal-generic" } },
     			"W": { type: "item", code: "game:plank-walnut" }
 		},
@@ -2442,17 +2333,6 @@
 		ingredients: {
     			"H": { type: "item", code: "game:hammer-*", isTool: true  },
 				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-walnut-draw-r" }, quantity: 1  }
-		},
-		width: 2,
-		height: 1,
-		
-		output: { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-walnut-draw-p" }, quantity: 1  }
-	},
-	{
-		ingredientPattern: "HR",
-		ingredients: {
-    			"H": { type: "item", code: "game:hammer-*", isTool: true  },
-				"R": { type: "block", code: "drawfancy-east", "attributes": { type: "drawerfancy-walnut-draw-p" }, quantity: 1  }
 		},
 		width: 2,
 		height: 1,

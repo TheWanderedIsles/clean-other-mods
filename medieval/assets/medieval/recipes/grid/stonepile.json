@@ -1,13 +1,12 @@
 [
     {
-		ingredientPattern: "I,H",
+		ingredientPattern: "H,H",
 		ingredients: {
-			"H": { type: "item", code: "game:stone-*", name: "rock", allowedVariants: [ "andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "obsidian", "kimberlite", "scoria", "tuff", "bauxite", "halite", "suevite", "whitemarble", "redmarble", "greenmarble" ], quantity: 63 },
-			"I": { type: "item", code: "game:stone-*", name: "rock", allowedVariants: [ "andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "obsidian", "kimberlite", "scoria", "tuff", "bauxite", "halite", "suevite", "whitemarble", "redmarble", "greenmarble" ], quantity: 1 }
+			"H": { type: "item", code: "game:stone-*", name: "rock", allowedVariants: [ "andesite", "chalk", "chert", "conglomerate", "limestone", "claystone", "granite", "sandstone", "shale", "basalt", "peridotite", "phyllite", "slate", "obsidian", "kimberlite", "scoria", "tuff", "bauxite", "halite", "suevite", "whitemarble", "redmarble", "greenmarble" ], quantity: 64 },
 		},
 		width: 1,
 		height: 2,
-		output: { type: "block", code: "medieval:stonepile-{rock}", quantity: 1 }
+		output: { type: "block", code: "medieval:stonepile-{rock}", quantity: 2 }
 	},
 
 
