@@ -7,6 +7,6 @@
 		},
 		width: 2,
 		height: 1,
-		output: { type: "block", code: "sausage-sausage", quantity: 1 }
+		output: { type: "block", code: "medieval:sausage-sausage", quantity: 1 }
 	}
 ]

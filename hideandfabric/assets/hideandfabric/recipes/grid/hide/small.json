@@ -4,7 +4,7 @@
     "enabled": true,
     "shapeless": true,
     "ingredients": {
-      "H": { "type": "item", "code": "hideandfabric:hide-small-fox-*" }
+      "H": { "type": "item", "code": "hideandgabric:hide-small-fox-*" }
     },
     "name": "rhide",
     "width": 1,

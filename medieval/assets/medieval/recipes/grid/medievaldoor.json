@@ -9,7 +9,7 @@
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-acacia"}
+    "output": { "type": "block", "code": "medieval:door-acacia-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -17,11 +17,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-aged", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-aged", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-aged"}
+    "output": { "type": "block", "code": "medieval:door-aged-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -29,11 +29,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-baldcypress", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-baldcypress", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-baldcypress"}
+    "output": { "type": "block", "code": "medieval:door-baldcypress-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -41,11 +41,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-birch", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-birch", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-birch"}
+    "output": { "type": "block", "code": "medieval:door-birch-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -53,11 +53,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-ebony", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-ebony", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-ebony"}
+    "output": { "type": "block", "code": "medieval:door-ebony-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -65,11 +65,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-kapok", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-kapok", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-kapok"}
+    "output": { "type": "block", "code": "medieval:door-kapok-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -77,11 +77,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-larch", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-larch", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-larch"}
+    "output": { "type": "block", "code": "medieval:door-larch-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -89,11 +89,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-maple", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-maple", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-maple"}
+    "output": { "type": "block", "code": "medieval:door-maple-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -101,11 +101,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-pine", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-pine", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-pine"}
+    "output": { "type": "block", "code": "medieval:door-pine-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -113,11 +113,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-purpleheart", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-purpleheart", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-purpleheart"}
+    "output": { "type": "block", "code": "medieval:door-purpleheart-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -125,11 +125,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-redwood", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-redwood", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-redwood"}
+    "output": { "type": "block", "code": "medieval:door-redwood-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -137,11 +137,11 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-walnut", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-walnut", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-walnut"}
+    "output": { "type": "block", "code": "medieval:door-walnut-north-down-closed-left"}
   },
   {
     "ingredientPattern": "XWW,_DH,XWW",
@@ -149,10 +149,10 @@
       "H": { "type": "item", "code": "game:hammer-*", "isTool": true  },
       "D": { "type": "item", "code": "game:plank-oak", "quantity": 2 },
       "W": { "type": "item", "code": "game:plank-oak", "quantity": 1 },
-	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
+	  	  "X": {type: "Item", code: "hammersringingfall:hinge-*" }
     },
     "width": 3,
     "height": 3,
-    "output": { "type": "block", "code": "planks-door-oak"}
+    "output": { "type": "block", "code": "medieval:door-oak-north-down-closed-left"}
   }
 ]

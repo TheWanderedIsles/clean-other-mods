@@ -1,11 +1,5 @@
 [
 
-
-
-
-
-
-
 	{
 		ingredientPattern: "PSN,SP_",
 		ingredients: {
@@ -192,5 +186,6 @@
 		height: 1,
 		
 		output: { type: "block", code: "medieval:cajitafloor-turnip-north", quantity: 1  }
-	}
+	},
+
 ]

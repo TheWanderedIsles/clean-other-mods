@@ -11,8 +11,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 35,
-		"var": 4
+		"avg": 350,
+		"var": 40
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -30,8 +30,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 31,
-		"var": 3
+		"avg": 310,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -49,8 +49,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 16,
-		"var": 3
+		"avg": 160,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -68,8 +68,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -87,8 +87,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 18,
-		"var": 1
+		"avg": 180,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -106,8 +106,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 6,
-		"var": 1
+		"avg": 60,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -125,8 +125,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 9,
-		"var": 1
+		"avg": 90,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -144,8 +144,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -163,8 +163,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -182,8 +182,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -202,7 +202,7 @@
 	    },
 	    "price": {
 		"avg": 2,
-		"var": 0.25
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -220,8 +220,8 @@
 		"var": 4
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.5
+		"avg": 20,
+		"var": 5
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",
@@ -239,8 +239,8 @@
 		"var": 4
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.5
+		"avg": 20,
+		"var": 5
 	    }
     },
     "file": "game:entities/humanoid/trader-treasurehunter.json",

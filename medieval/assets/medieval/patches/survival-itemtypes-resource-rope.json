@@ -16,7 +16,7 @@
           "y": 0,
           "z": 0.5
         },
-        "scale": 0.8
+        "scale": 0.55
       }
     },
     "file": "game:itemtypes/resource/rope.json"
@@ -25,26 +25,21 @@
     "op": "add",
     "path": "/fpHandTransform",
     "value": {
-      "translation": {
-        "x": 0.4,
-        "y": -0.4,
-        "z": -1
-      },
       "rotation": {
-        "x": -90,
-        "y": 0,
-        "z": 90
+        "x": 110,
+        "y": 92,
+        "z": -30
       },
       "origin": {
         "x": 0.6,
         "y": 0.2,
         "z": 0.4
       },
-      "scale": 3.15
+      "scale": 1.1
     },
   
     "file": "game:itemtypes/resource/rope.json"
-  },
+  },  
   {
     "op": "add",
     "path": "/groundTransform",
@@ -72,11 +67,6 @@
     "op": "add",
     "path": "/guiTransform",
     "value": {
-      "translation": {
-        "x": 3,
-        "y": -5,
-        "z": 0
-      },
       "rotation": {
         "x": 120,
         "y": 11,
@@ -87,7 +77,7 @@
         "y": 0.3,
         "z": 0.4
       },
-      "scale": 2.5
+      "scale": 1.69
     },
     "file": "game:itemtypes/resource/rope.json"
   },
@@ -96,16 +86,16 @@
     "path": "/tpHandTransform",
     "value": {
       "translation": {
-        "x": -0.7,
-        "y": -0.9,
-        "z": -1.09
+        "x": -1.7,
+        "y": -1.1,
+        "z": -1.45
       },
       "rotation": {
-        "x": -90,
-        "y": -180,
-        "z": -0
+        "x": -10,
+        "y": -1,
+        "z": -29
       },
-      "scale": 0.75
+      "scale": 0.34
     },
     "file": "game:itemtypes/resource/rope.json"
   },
@@ -115,6 +105,12 @@
     "value": 120,
     "file": "game:itemtypes/resource/rope.json"
   },
+  {
+    "op": "replace",
+    "path": "/maxstacksize",
+    "value": 16,
+    "file": "game:itemtypes/resource/rope.json"
+  },  
   {
     "op": "add",
     "path": "/shape/base",

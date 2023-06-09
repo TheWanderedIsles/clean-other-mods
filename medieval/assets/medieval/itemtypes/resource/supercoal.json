@@ -1,30 +1,30 @@
 {
 	code: "supercoal",
-	shape: { base: "item/supercoal/supercoal1" },
+	shape: { base: "item/supercoal/supercoal" },
 	creativeinventory: { "general": ["*"], "items": ["*"], "medieval": ["*"] },
-	class: "ItemCoal",
+	class: "SuperCoal",
 	maxstacksize: 64,
 	attributes: {
 		displayInsideCrate: false,
-		placeSound: "game:block/charcoal",
+		placeSound: "block/charcoal",
 		displaycaseable: false,
 		shelvable: false
 	},
 	materialDensity: 300,
 	combustibleProps: {
-		burnTemperature: 1700,
+		burnTemperature: 1650,
 		burnDuration: 120,
 	},
 	fpHandTransform: {
 		translation: { x: 0, y: 0, z: 0 },
-		rotation: { x: 1, y: 90, z: 0 },
+		rotation: { x: 9, y: 13, z: 0 },
 		scale: 1.67
-	},
+	},	
 	guiTransform: {
-		translation: { x: 3, y: 2, z: 0 },
-		rotation: { x: 150, y: -38, z: 0 },
+		translation: { x: 2, y: 0, z: 0 },
+		rotation: { x: 146, y: 50, z: 0 },
 		origin: { x: 0.5, y: 0.1, z: 0.5 },
-		scale: 3.8
+		scale: 2.7
 	},
 	tpHandTransform: {
 		translation: { x: -0.93, y: -0.19, z: -0.77 },
@@ -37,5 +37,5 @@
 		rotation: { x: 0, y: 0, z: 0 },
 		origin: { x: 0.5, y: 0, z: 0.5 },
 		scale: 4.5
-	},
+	}
 }

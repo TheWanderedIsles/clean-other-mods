@@ -7,7 +7,7 @@
 	"type": "item",
 	    "stacksize": 32,
 	    "stock": { "avg": 5, "var": 2 },
-	    "price": { "avg": 2, "var": 0.5 }
+	    "price": { "avg": 20, "var": 5 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -20,7 +20,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -33,7 +33,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -46,7 +46,7 @@
 	"type": "item",
 	    "stacksize": 32,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 2, "var": 0.5 }
+	    "price": { "avg": 20, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -59,7 +59,7 @@
 	"type": "item",
 	    "stacksize": 24,
 	    "stock": { "avg": 6, "var": 2 },
-	    "price": { "avg": 2, "var": 0.5 }
+	    "price": { "avg": 20, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -72,7 +72,7 @@
 	"type": "item",
 	    "stacksize": 28,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -85,7 +85,7 @@
 	"type": "item",
 	    "stacksize": 24,
 	    "stock": { "avg": 3, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -98,7 +98,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 8, "var": 3 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -111,7 +111,7 @@
 	"type": "item",
 	    "stacksize": 8,
 	    "stock": { "avg": 2, "var": 1 },
-	    "price": { "avg": 7, "var": 0.5 }
+	    "price": { "avg": 70, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -124,7 +124,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 4, "var": 0.5 }
+	    "price": { "avg": 40, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -137,7 +137,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"
@@ -150,7 +150,7 @@
 	"type": "item",
 	    "stacksize": 16,
 	    "stock": { "avg": 4, "var": 2 },
-	    "price": { "avg": 3, "var": 0.5 }
+	    "price": { "avg": 30, "var": 05 }
     },
     "file": "game:entities/humanoid/trader-commodities.json",
     "side": "Server"

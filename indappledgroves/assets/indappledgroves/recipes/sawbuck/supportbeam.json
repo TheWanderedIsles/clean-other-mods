@@ -9,6 +9,6 @@
        ]
       }
     ],
-    "output": {"type": "block", "code": "game:supportbeam-{wood}", "quantity": 2}
+    "output": {"type": "block", "code": "game:supportbeam-{wood}", "quantity": 3}
   }
 ]

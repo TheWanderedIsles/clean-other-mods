@@ -11,8 +11,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 12,
-		"var": 2
+		"avg": 120,
+		"var": 20
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -30,8 +30,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 32,
-		"var": 4
+		"avg": 320,
+		"var": 40
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -49,8 +49,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 16,
-		"var": 3
+		"avg": 160,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -68,8 +68,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 16,
-		"var": 3
+		"avg": 160,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -87,8 +87,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 15,
-		"var": 3
+		"avg": 150,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -106,8 +106,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 17,
-		"var": 3
+		"avg": 170,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -125,8 +125,8 @@
 		"var": 0
 	    },
 	    "price": {
-		"avg": 17,
-		"var": 3
+		"avg": 170,
+		"var": 30
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -144,8 +144,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -163,8 +163,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 7,
-		"var": 1
+		"avg": 70,
+		"var": 10
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -182,8 +182,8 @@
 		"var": 1
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.25
+		"avg": 20,
+		"var": 2.5
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
@@ -201,8 +201,8 @@
 		"var": 4
 	    },
 	    "price": {
-		"avg": 2,
-		"var": 0.5
+		"avg": 20,
+		"var": 5
 	    }
     },
     "file": "game:entities/humanoid/trader-luxuries.json",
