@@ -1,5 +1,20 @@
 [
+/* this recipe might rely on the deletion, modification, or replacement of
 
+hideandfabric/assets/hideandfabric/recipes/grid/fabric/miningbag.json
+hideandfabric/assets/hideandfabric/recipes/grid/fabric/sack.json
+medieval/assets/medieval/recipes/grid/big-backpack.json
+medieval/assets/medieval/recipes/grid/big-sack.json
+medieval/assets/medieval/recipes/grid/carcaj.json
+medieval/assets/medieval/recipes/grid/huge-medieval-belt-bag.json
+medieval/assets/medieval/recipes/grid/huge-sack.json
+medieval/assets/medieval/recipes/grid/medieval-belt-bag.json
+morebags/assets/morebags/recipes/grid/cottonframepack.json
+morebags/assets/morebags/recipes/grid/framepack.json
+morebags/assets/morebags/recipes/grid/silkframepack.json
+morebags/assets/morebags/recipes/grid/woolframepack.json
+
+*/
 	{
 		ingredientPattern: "LLL,TST,LLL",
 		ingredients: {
@@ -118,7 +133,7 @@
 	width: 3,
 	height: 2,
 	name: "miningbag",
-	output: { type: "item", code: "miningbag"  }
+	output: { type: "item", code: "game:miningbag"  }
 	},
 	{
 		ingredientPattern: "CCC,LPL,TFT",
