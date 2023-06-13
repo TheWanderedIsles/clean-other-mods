@@ -1,9 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/ingredient/allowedVariants",
-    "value": [ "blue" ],
-    "file": "game:recipes/clayforming/storagevessel.json",
-    "side": "Server"
-  }
-]

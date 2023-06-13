@@ -1,3 +1,0 @@
-[
-  { "file": "bricklayers:blocktypes/plant/cropsapling.json",				"op": "add", "path": "/storageFlags", "value": 33 }
-]

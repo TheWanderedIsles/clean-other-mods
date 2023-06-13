@@ -1,8 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/maxStackSize",
-    "value": 64,
-    "file": "game:blocktypes/wood/woodtyped/planks.json"
-  }
-]
