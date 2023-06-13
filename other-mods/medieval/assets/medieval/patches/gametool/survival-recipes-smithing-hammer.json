@@ -1,8 +1,0 @@
-[
-  {
-    "op": "add",
-    "path": "/ingredient/allowedVariants/-",
-    "value": "stainlesssteel",
-    "file": "game:recipes/smithing/hammer.json"
-  }
-]
