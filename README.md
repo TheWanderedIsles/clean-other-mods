@@ -1,2 +1,2 @@
-# clean-other-mods
-repo for purpose of cleaning other mods (those not included in wandered isles)
+# clean-other-mods (defunct)
+repo that was used for cleaning other mods (those not included in wandered isles)
